@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>拍摄 on 小贡的奇妙生活</title>
+    <link>http://example.org/tags/%E6%8B%8D%E6%91%84/</link>
+    <description>Recent content in 拍摄 on 小贡的奇妙生活</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>gongyanru0221@qq.com (旅行的小七仔)</managingEditor>
+    <webMaster>gongyanru0221@qq.com (旅行的小七仔)</webMaster>
+    <lastBuildDate>Sat, 31 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%8B%8D%E6%91%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网络小博主</title>
+      <link>http://example.org/blog/wangluoxiaobozhu/</link>
+      <pubDate>Sat, 31 Dec 2022 19:03:08 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>http://example.org/blog/wangluoxiaobozhu/</guid>
+      <description>&lt;p&gt;正在朝努力做博主的路上奋斗ing.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

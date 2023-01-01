@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MUSIC on 小贡的奇妙生活</title>
+    <link>http://example.org/categories/music/</link>
+    <description>Recent content in MUSIC on 小贡的奇妙生活</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>gongyanru0221@qq.com (旅行的小七仔)</managingEditor>
+    <webMaster>gongyanru0221@qq.com (旅行的小七仔)</webMaster>
+    <lastBuildDate>Fri, 30 Dec 2022 10:10:34 +0800</lastBuildDate><atom:link href="http://example.org/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>移动小曲库</title>
+      <link>http://example.org/blog/yidongxiaoquku/</link>
+      <pubDate>Fri, 30 Dec 2022 10:10:34 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>http://example.org/blog/yidongxiaoquku/</guid>
+      <description>&lt;p&gt;作为耳机重度依赖者，我很喜欢听音乐.2022年我一共听了1298首歌，高达57602分钟，是当之无愧的移动小曲库，来和我一起徜徉在音乐的海洋中，听听最爱的歌吧。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
