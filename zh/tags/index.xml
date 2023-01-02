@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>标签 on 优秀文章</title>
-    <link>http://example.org/zh/tags/</link>
+    <link>https://gongyanru.github.io/zh/tags/</link>
     <description>Recent content in 标签 on 优秀文章</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>gongyanru0221@qq.com (旅行的小七仔)</managingEditor>
     <webMaster>gongyanru0221@qq.com (旅行的小七仔)</webMaster>
-    <lastBuildDate>Sat, 31 Dec 2022 21:58:50 +0800</lastBuildDate><atom:link href="http://example.org/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 21:58:50 +0800</lastBuildDate><atom:link href="https://gongyanru.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文摘</title>
-      <link>http://example.org/zh/tags/%E6%96%87%E6%91%98/</link>
+      <link>https://gongyanru.github.io/zh/tags/%E6%96%87%E6%91%98/</link>
       <pubDate>Sat, 31 Dec 2022 21:58:50 +0800</pubDate>
       <author>gongyanru0221@qq.com (旅行的小七仔)</author>
-      <guid>http://example.org/zh/tags/%E6%96%87%E6%91%98/</guid>
+      <guid>https://gongyanru.github.io/zh/tags/%E6%96%87%E6%91%98/</guid>
       <description></description>
     </item>
     
     <item>
       <title>哲理</title>
-      <link>http://example.org/zh/tags/%E5%93%B2%E7%90%86/</link>
+      <link>https://gongyanru.github.io/zh/tags/%E5%93%B2%E7%90%86/</link>
       <pubDate>Sat, 31 Dec 2022 21:58:50 +0800</pubDate>
       <author>gongyanru0221@qq.com (旅行的小七仔)</author>
-      <guid>http://example.org/zh/tags/%E5%93%B2%E7%90%86/</guid>
+      <guid>https://gongyanru.github.io/zh/tags/%E5%93%B2%E7%90%86/</guid>
       <description></description>
     </item>
     

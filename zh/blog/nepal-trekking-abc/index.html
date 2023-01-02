@@ -22,12 +22,15 @@
 
 
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://example.org/css/main.css"></header>
+<link rel="stylesheet" type="text/css" media="screen" href="https://gongyanru.github.io/css/main.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" /></header>
     
     <body><div class="container-fluid bg-header bb-1">
     <div class="container">
         <div id="header">
             <p class="title">优秀文章</p>
+
+            
+
             <nav class="menu">
                 
                 
@@ -41,12 +44,13 @@
                 
 
                 
-                        <a class="menu-item" href="http://example.org/">Chinese</a>
+                        <a class="menu-item" href="https://gongyanru.github.io/">Chinese</a>
                         
                     
                     
                 
             </nav>
+
         </div>
     </div>
 </div>
@@ -176,10 +180,23 @@
         
     </div>
 
+
+    <div class="container-fluid stager">
+        <main><script src="https://utteranc.es/client.js"
+        repo="Gongyanru/Gongyanru.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+        </script>  </main>
+        </div>
 </div>
 
 </main>
-            <aside><div class="container-aside">
+            <aside><div class="searchbox" style="margin: 40px 20px;width: 80%;"><input type="search" class="docsearch-input searchbox__input" placeholder="输入关键词搜索" /></div>
+
+
+<div class="container-aside">
     <div id="toc">
         <div class="card">
             <div class="card-title">TABLE OF CONTENT</div>
@@ -220,6 +237,15 @@
 </div>
 
 
-<script type="text/javascript" src="/js/main.js"></script></body>
+<script type="text/javascript" src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+<script>
+docsearch({
+    apiKey: "e58686e50fd1dc169b6ba65b441ba006",
+    indexName: "hugo",
+    appId: "J9MVQQ97BF",
+    inputSelector: '.docsearch-input',
+    debug: false,
+});
+</script></body>
     
 </html>

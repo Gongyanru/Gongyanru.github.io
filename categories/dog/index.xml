@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dog on 小贡的奇妙生活</title>
-    <link>http://example.org/categories/dog/</link>
+    <link>https://gongyanru.github.io/categories/dog/</link>
     <description>Recent content in dog on 小贡的奇妙生活</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>gongyanru0221@qq.com (旅行的小七仔)</managingEditor>
     <webMaster>gongyanru0221@qq.com (旅行的小七仔)</webMaster>
-    <lastBuildDate>Sat, 31 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="http://example.org/categories/dog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://gongyanru.github.io/categories/dog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>小狗铲屎官</title>
-      <link>http://example.org/blog/dog-wangzai/</link>
+      <link>https://gongyanru.github.io/blog/dog-wangzai/</link>
       <pubDate>Sat, 31 Dec 2022 19:03:08 +0800</pubDate>
       <author>gongyanru0221@qq.com (旅行的小七仔)</author>
-      <guid>http://example.org/blog/dog-wangzai/</guid>
+      <guid>https://gongyanru.github.io/blog/dog-wangzai/</guid>
       <description>&lt;p&gt;作为一位合格的小狗铲屎官，养了一只很可爱的小狗，快来和她交朋友啦(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ❤&lt;/p&gt;</description>
     </item>
     
