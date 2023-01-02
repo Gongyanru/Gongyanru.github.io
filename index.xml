@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on 小贡的奇妙生活</title>
+    <link>https://gongyanru.github.io/</link>
+    <description>Recent content in Home on 小贡的奇妙生活</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>gongyanru0221@qq.com (旅行的小七仔)</managingEditor>
+    <webMaster>gongyanru0221@qq.com (旅行的小七仔)</webMaster>
+    <lastBuildDate>Sat, 31 Dec 2022 20:18:32 +0800</lastBuildDate><atom:link href="https://gongyanru.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>欢迎来到我的主页</title>
+      <link>https://gongyanru.github.io/blog/welcome/</link>
+      <pubDate>Sat, 31 Dec 2022 20:18:32 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/blog/welcome/</guid>
+      <description>&lt;p&gt;Welcome to My World！欢迎来到我的网站，目前网站包括美食小厨娘、移动小曲库、小狗铲屎官、网络小博主四部分，后续也会及时进行更新。网站为本人花很长时间设计，目前还有很多缺点，但是由于本人技术原因不完善之处请大家多多包容o(╥﹏╥)o&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小狗铲屎官</title>
+      <link>https://gongyanru.github.io/blog/dog-wangzai/</link>
+      <pubDate>Sat, 31 Dec 2022 19:03:08 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/blog/dog-wangzai/</guid>
+      <description>&lt;p&gt;作为一位合格的小狗铲屎官，养了一只很可爱的小狗，快来和她交朋友啦(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ❤&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>网络小博主</title>
+      <link>https://gongyanru.github.io/blog/wangluoxiaobozhu/</link>
+      <pubDate>Sat, 31 Dec 2022 19:03:08 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/blog/wangluoxiaobozhu/</guid>
+      <description>&lt;p&gt;正在朝努力做博主的路上奋斗ing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>移动小曲库</title>
+      <link>https://gongyanru.github.io/blog/yidongxiaoquku/</link>
+      <pubDate>Fri, 30 Dec 2022 10:10:34 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/blog/yidongxiaoquku/</guid>
+      <description>&lt;p&gt;作为耳机重度依赖者，我很喜欢听音乐.2022年我一共听了1298首歌，高达57602分钟，是当之无愧的移动小曲库，来和我一起徜徉在音乐的海洋中，听听最爱的歌吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>美食小厨娘</title>
+      <link>https://gongyanru.github.io/blog/meishixiaochuniang/</link>
+      <pubDate>Fri, 30 Dec 2022 10:10:34 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/blog/meishixiaochuniang/</guid>
+      <description>&lt;p&gt;与千百种美食相遇，与千百个人相识，与千百种人生惺惺相惜。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

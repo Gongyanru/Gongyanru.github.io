@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on 小贡的奇妙生活</title>
+    <link>https://gongyanru.github.io/categories/</link>
+    <description>Recent content in Category on 小贡的奇妙生活</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>gongyanru0221@qq.com (旅行的小七仔)</managingEditor>
+    <webMaster>gongyanru0221@qq.com (旅行的小七仔)</webMaster>
+    <lastBuildDate>Sat, 31 Dec 2022 20:18:32 +0800</lastBuildDate><atom:link href="https://gongyanru.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HELLO</title>
+      <link>https://gongyanru.github.io/categories/hello/</link>
+      <pubDate>Sat, 31 Dec 2022 20:18:32 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/categories/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogger</title>
+      <link>https://gongyanru.github.io/categories/blogger/</link>
+      <pubDate>Sat, 31 Dec 2022 19:03:08 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/categories/blogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dog</title>
+      <link>https://gongyanru.github.io/categories/dog/</link>
+      <pubDate>Sat, 31 Dec 2022 19:03:08 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/categories/dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOOD</title>
+      <link>https://gongyanru.github.io/categories/food/</link>
+      <pubDate>Fri, 30 Dec 2022 10:10:34 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUSIC</title>
+      <link>https://gongyanru.github.io/categories/music/</link>
+      <pubDate>Fri, 30 Dec 2022 10:10:34 +0800</pubDate>
+      <author>gongyanru0221@qq.com (旅行的小七仔)</author>
+      <guid>https://gongyanru.github.io/categories/music/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
